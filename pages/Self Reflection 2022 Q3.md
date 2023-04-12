@@ -1,0 +1,5 @@
+- Daily Asset Movement Service
+	- Reducing on-call toil for the tedious and time consuming task of cross-referencing assets that need to get moved
+- Resolved a long standing issue where not all required documents would get sent for RESP transfers
+- Noticed a strong improvement in debugging and navigating Javascript code
+- Worked on more javascript stories, still very lacking in experience but it's getting better slowly

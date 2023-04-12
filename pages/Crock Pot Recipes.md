@@ -1,0 +1,7 @@
+- Vegetarian
+	- https://fitfoodiefinds.com/50-healthy-slow-cooker-recipes/
+	- https://fitfoodiefinds.com/sweet-potato-lentil-stew/
+- Chicken
+	- https://fitfoodiefinds.com/crock-pot-sesame-chicken/
+	- https://fitfoodiefinds.com/5-ingredient-honey-sriracha-crock-pot-chicken/
+	- https://fitfoodiefinds.com/crockpot-chicken-chili/

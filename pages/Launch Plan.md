@@ -1,0 +1,11 @@
+- Notes about releasing #bonmec to the world
+- # Launch Phase 1
+	- > Working on Bon Mec alongside full-time job
+	- Expenses
+		- Brand Identity
+		- Cloud 66 (monthly)
+		- iOS developer license
+- # Launch Phase 2
+	- > Bon Mec becomes my full time job
+	- Expenses
+		- Health insurance

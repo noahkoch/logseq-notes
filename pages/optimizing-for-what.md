@@ -1,0 +1,3 @@
+- I try to optimize my money so I can have time
+- But what am I optimizing my time for?
+- If I made it, I hit all of my financial goals, what would I do with my time?

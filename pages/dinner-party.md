@@ -1,0 +1,17 @@
+- https://www.bbcgoodfood.com/recipes/paneer-makhani
+- Entrees (cook and some prep during meal)
+	- Meat and meatless sliders
+	- Maybe above paneer dish?
+- Sides (need to prep, ready to go for the meal)
+	- Salad
+	- Asparagus
+	- Pineapple and watermelon
+- Apps (just cook for meal)
+	- Asian apps
+	- Pizza rolls
+	- Empanadas
+	- Cauliflower bites
+- Desserts
+	- Ask people to bring if they want
+	- Popsicles
+	- Ice cream sandwiches

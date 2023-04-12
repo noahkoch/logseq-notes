@@ -1,0 +1,11 @@
+- alias:: Roadtrip
+- #trips
+- Campsites
+	- https://freecampsites.net
+	- https://offtracktravel.ca/free-camping-in-canada/#Crown_land
+- New Brunswick
+	- Coworking
+		- https://lastationsupport.com/en/membership
+- Yukon
+	- Coworking
+		- https://www.yukonstruct.com/

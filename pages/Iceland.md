@@ -1,0 +1,16 @@
+- https://en.vedur.is/weather/forecasts/aurora/
+-
+- Anytime
+	- https://citywalk.is/tour/pubcrawl/
+	- Big lebowski bar
+	- National History Museum
+- 22nd
+	- https://wakeupreykjavik.com/tour/the-reykjavik-food-tour
+	- https://citywalk.is/tour/free-walking-tour-reykjavik/
+- 23rd
+	- Sky Lagoon
+	- https://bookings.skylagoon.com/SKL/spa/details/18/SPA/Attraction?currency=ISK#/select-ticket/book-adventure
+- 24th
+	- https://kexhostel.tourdesk.is/Tour/Item/13256/1/GOLDEN_CIRCLE_AFTERNOON_(Guided_in_10_languages)
+	- https://rvkfringe.is
+- 25th

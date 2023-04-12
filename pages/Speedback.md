@@ -1,0 +1,20 @@
+- Next One
+	- Arsalan
+		- Focus too much on addressing an issue with a solution which leads to rambling, you don't need to have an answer right then and there
+			- Often people simply want to be heard, not to have their problem solved
+			- Example with the goal alignment around switch to backend, there was a focus on "clarifying" thing. But the thing that was clarified wasn't the issue they brought.
+			- Same with the lead on Bill Pay
+				- Vic: "I feel like I don't know who owns bill pay"
+				  Arsalan: "Let me provide some context ..." *Doesn't actually address Vic's comment, mentions vaguely who is supposed to own it, but not who actually owns it*
+- Sep 19th
+	- Nat
+		- Ask for more advice
+	- Arsalan
+		- End meetings early
+		- Pivot back to dev plan work
+	- Vic
+-
+-
+- ### Feedback for Me
+	- More visibility on what I'm working on
+		- Like with the script, capture things in Jira

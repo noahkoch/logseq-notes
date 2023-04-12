@@ -1,0 +1,12 @@
+- {:title "All pages have a *programming* tag"
+   :query [:find ?name
+         :in $ ?tag
+         :where
+         [?t :block/name ?tag]
+         [?p :page/tags ?t]
+         [?p :block/name ?name]]
+   :inputs ["therapy-session"]
+  :view (fn [result]
+         [:div.flex.flex-col
+          (for [page result]
+            [:a {:href (str "/page/" page)} (clojure.string/capitalize page)])])}

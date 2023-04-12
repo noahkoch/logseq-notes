@@ -1,0 +1,11 @@
+query-table:: false
+#+BEGIN_QUERY
+{:title [:h2 "Programming languages list"]
+ :query [:find (pull ?b [*])
+       :where
+       [?b :block/properties ?p]
+       [(= "therapy-session" ?t)]]
+ }
+#+END_QUERY
+
+-

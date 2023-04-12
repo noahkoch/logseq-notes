@@ -1,0 +1,35 @@
+- Income:
+	- Mer pays $300
+	- Aventura: $1000
+- Owed
+	- Amex: $571
+	- ~~Scotia: $1,962.89~~
+	- Aventura Gold: $1000
+	- ~~Aventura Black: $1000~~
+	- ~~HSBC: $1571.83~~
+- Available
+	- Inbox: $6015
+	- Vacation: $1063
+	- Scotia: $7600
+- Moves
+	- Scotia pays off Amex (wait for autopay)
+		- Begin of Jan
+	- Inbox pays off HSBC
+		- Paid off Dec 22nd
+	- Inbox pays off Scotia
+		- $1000 paid Dec 15th
+		- $962.89 paid Dec 16th
+	- Inbox pays off Aventura cards
+		- Pay off after RHT completes
+- Upcoming expenses
+	- Drinks at Craft - $75
+	- Drinks at Dominion - $75
+	- Dinner with Fiona - $75
+	- Groceries Dec 16 - $90
+	- Groceries Dec 23 - $90
+	- Groceries Dec 30 - $90
+	- Dinner with Mer - $50
+	- Sezzle Payment 3 - $225
+	- Misc subscriptions - $100
+	- Blue Mountain Shuttle Feb - $75
+	- Total: $945 (coverable by current chequing account)

@@ -1,0 +1,6 @@
+- #work/periscope
+- #work/superset
+- Dashboards
+	- https://wealthsimple.slack.com/archives/C03K6UDG139/p1670352862089019
+- Alerts
+	- https://wealthsimple.slack.com/archives/C03CZ77UXJ5/p1670878621548009

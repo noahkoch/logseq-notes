@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "2f0d51a718f20e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cbbe99010d5f0a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rake Task Runner Brief.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3c841c0e63fbc8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c255f0f45dd5f64c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcab2fa8c1baafdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f929a51391611dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "028a175052989304",
+    "type": "split",
+    "children": [
+      {
+        "id": "848e90071920622f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a3cb35a17e2a490",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rake Task Runner Brief.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88ad09c4287ab241",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8cbbe99010d5f0a1",
+  "lastOpenFiles": [
+    "Rake Task Runner Brief.md",
+    "2022-02-28.md",
+    "New Document Here.md",
+    "Untitled.md",
+    "This is a test note.md"
+  ]
+}

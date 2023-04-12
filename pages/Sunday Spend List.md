@@ -1,0 +1,9 @@
+- Blueland Refills
+	- https://www.blueland.com/products/holiday-hand-soap-refill-tin
+	- https://www.blueland.com/products/multi-surface-refill-packs?plan=one-time&variant=12+%2F+24oz+%2F+Lemon
+	- https://www.blueland.com/products/bathroom-refill-packs?plan=one-time&variant=12+%2F+24oz+%2F+Eucalyptus+Mint
+	- https://www.blueland.com/products/glass-mirror-refill-packs?plan=one-time&variant=3+%2F+24oz+%2F+Unscented
+- Lululemon
+	- https://shop.lululemon.com/p/men-pants/Abc-Jogger/_/prod8530241?color=36763&sz=M&tasid=iti6s24EYg&taterm=ABC%20jogger
+- Monos
+	- Luggage

@@ -1,0 +1,1 @@
+- Created a [[Conscious Spending Plan]]

@@ -1,0 +1,16 @@
+- Common Issues
+	- State transitions
+- What to do when there's no documentation
+	- _Everything has been solved before_
+- Communicating with CX
+	- Add comment in Jira ticket, move to won't do
+	- Message agent in Slack
+- Debugging
+	- Atlas
+	- Datadog
+	- Periscope
+	- rcon
+		- https://wealthsimple.pagerduty.com/service-directory/PQ0AQO7
+- Declaring incidents
+- Datadog dashboard for on-call?
+- Slack DD alerts for asset movement

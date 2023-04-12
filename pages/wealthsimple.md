@@ -1,0 +1,4 @@
+- My user slugs
+	- Invest: user-im8zxe_jj_8
+	- Trade: user-wneqzs3-j90
+- Test on prod: https://github.com/wealthsimple/harbour-mobile/blob/main/docs/impersonation.md

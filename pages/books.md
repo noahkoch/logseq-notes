@@ -1,0 +1,9 @@
+- Read
+	- [[Atomic Habits]]
+	- [[The Power of Habit]]
+	- [[I Will Teach You To Be Rich]]
+	- [[Thinking Fast and Slow]]
+	- [[Getting Things Done]]
+- Want to Read
+	- Where the Crawdads Sing
+		- Recommended here: https://www.youtube.com/watch?v=NjR9lz-R1xk

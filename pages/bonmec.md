@@ -1,0 +1,5 @@
+- [[Launch Plan]]
+- [[Business Ideas]]
+- # Identity
+	- The dollar store/Ryan Air of apps
+	- Nothing novel, nothing revolutionary, just simple no frills apps that you buy and pay once

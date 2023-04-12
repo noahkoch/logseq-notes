@@ -1,0 +1,1 @@
+- See "To Buy" list in Things App as well

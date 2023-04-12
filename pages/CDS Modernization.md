@@ -1,0 +1,49 @@
+- [[Tech Brief]]
+- Phases
+	- Part 1
+		- Move posting logic from CDS Service into Ares
+	- Part 2
+		- Deprecation of Google Sheets
+	- Part 3/4
+		- Update to CDS Messaging Service
+- TODOs
+	- Talk about transfer-form-signature-update project
+		- https://wealthsimple.slack.com/archives/D02U2L4GPSB/p1677862917817389?thread_ts=1677862878.405939&cid=D02U2L4GPSB
+		- Docusign automatically captures audit trails but we're not included in the fax package
+		- Could eliminate a lot of wet sigs
+- [[Mar 3rd, 2023]]
+	- Chat with Fuad
+		- Purpose of Google Sheets
+			- Daily operational tasks that we need to review and amend
+		- Anything that's not going through CDS Service needs to manually flip to aton_sent state
+		- 95% of transfers can be updated through Atlas
+		- Four types for manual
+			- Specific set of RESPs
+				- We get the documents back, but we still need to make an ATON request to get the assets back
+				- [https://docs.google.com/spreadsheets/d/1LpVxoLr7B1yPdPPcmkPZypJmFhXyKzRJUgfhxDwale4/edit#gid=1410047646](https://docs.google.com/spreadsheets/d/1LpVxoLr7B1yPdPPcmkPZypJmFhXyKzRJUgfhxDwale4/edit#gid=1410047646)
+					- Orange, resp_form_c_received denotes we haven't yet received assets
+					- Ideally, we automatically make the ATON request at this point
+			- Spousal RIFs
+				- RRSP when you age out
+				- We need to generate a macro for all of these
+				- Spouse information is not included on the form
+					- Example: transfer-zrAnYLnSUiy3EV2KtbRm2pAWD3G
+			- LIRA
+				- Pensions when you leave account
+				- Quebec either has province as QC or PQ
+					- Rarely we get a rejection because we need to send with PQ instead, we need a way to retry using PQ instead of our default of QC once we receive a rejection
+					- No way to know which code to use until we received the rejection, not institution specific
+			- MD Management
+				- 1 or 2 transfers a year
+				- Some accounts have a dot in their account, e.g. `1234.78`
+				- Atlas sanitizes account number so the transfer would fail in CDS because the dot gets removed
+		- RESP transfers
+			- ASM = ATON for cash
+				- Basically an EFT
+			- Assets back through Fundserv
+			- Fax out transfer from, get form C back
+			- 90% of the time we get the assets back at the same time
+		- ## Work Required
+			- resp_form_c_received state
+				- Send ATON request to get assets
+-

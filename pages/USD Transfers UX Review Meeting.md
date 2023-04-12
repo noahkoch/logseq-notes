@@ -1,0 +1,14 @@
+- [[USD Transfers]]
+- [[1st Mar 2022]]
+- MVP
+	- Ability to enter in the currency breakdown of their external portfolio
+	- Not a plus member?
+		- Are they transferring USD?
+			- Prompt upsell
+	- Select currency breakdown
+		- When contacting the other institution, we need to know how much money to pull in for each currency
+		- This will happen regardless of their subscription level
+	- This will only pull in self-directed accounts
+		- Invest will be handled in the Invest app
+		- Invest unification will happen down the road
+	-

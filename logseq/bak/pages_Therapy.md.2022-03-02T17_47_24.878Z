@@ -1,0 +1,12 @@
+alias:: therapy-session
+
+- Collect all the notes from therapy here
+- query-table:: true
+  query-properties:: [:block]
+  #+BEGIN_QUERY
+  {:title "Therapy Sessions"
+   :query [:find (pull ?b [*])
+         :where
+         [?p :block/name "therapy-session"]
+         [?b :block/ref-pages ?p]]}
+  #+END_QUERY

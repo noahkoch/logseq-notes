@@ -1,0 +1,12 @@
+alias:: templates
+
+- Usage:
+	- Create new node
+	- Right click on bullet
+	- Convert to template
+	- Add properties
+	- Use `/template` to implement
+- template:: Book Note
+  tags:: books
+  book::
+  note::

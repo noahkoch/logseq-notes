@@ -1,0 +1,10 @@
+query-table:: false
+#+BEGIN_QUERY
+{:title "All todos with tag project"
+ :query [:find (pull ?b [*])
+       :where
+       [?p :block/name "therapy-session"]
+       [?b :block/ref-pages ?p]]}
+#+END_QUERY
+
+-

@@ -1,0 +1,3 @@
+- UX
+	- Figma: https://www.figma.com/file/WYh9hck0gEeBv6cnOP2JN5/USD-Transfers?node-id=1365%3A46938
+	- Prototypes: https://www.figma.com/proto/WYh9hck0gEeBv6cnOP2JN5/USD-Transfers?page-id=1365%3A31061&node-id=1365%3A48611&viewport=355%2C48%2C0.11&scaling=scale-down&starting-point-node-id=1365%3A48611&show-proto-sidebar=1

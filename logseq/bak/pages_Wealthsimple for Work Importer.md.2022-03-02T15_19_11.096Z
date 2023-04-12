@@ -1,0 +1,13 @@
+alias:: w4w importer
+
+- Hi folx,
+  I think this is the last thing that got lost when the team was forming :crossed_fingers:
+  Back in January, we had a meeting with the W4W team about wanting to have a bulk importer for onboarding clients. We already have such an import that was made for W4A (crm-importer-service) but it’s long since been deprecated. The result of that meeting was two things:
+	- If we find a place to schedule it in, we’ll try, but it’s going to be touch
+	  We will figure out what state the importer is currently in and determine if it’s even salvageable
+	  So. That second thing was done, I concluded that it was in fact in a good state, it required a few libraries to be updated/moved. But I probably spent about an hour working on it and got it to a spot where the test suite could, at the very least, run. My conclusion from that is it’s probably something one developer could wrap up in a week (not including coordination with infra to get a server dedicated to it).
+	  Unfortunately, this got lost in the ether. We’re now approaching the time they were hoping to have this ready (again, we did not actually commit to anything) and it’s for sure too short of notice for us to be working on it now.
+	  AFAIK, there’s no briefs for this (eng or product) and it would be good to have this importer ready for the next next time W4W needs to onboard a large organization. So next steps/questions:
+	  Who needs to know about this?
+	  Where should I be capturing this information that I outlined above?
+	  I’m happy to write a full tech brief, but I won’t personally have time for it for at least a couple weeks

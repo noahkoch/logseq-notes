@@ -1,0 +1,8 @@
+- {:title "All pages have a *programming* tag"
+   :query [:find ?name
+         :in $ ?tag
+         :where
+         [?t :block/name ?tag]
+         [?p :page/tags ?t]
+         [?p :block/name ?name]]
+   :inputs ["therapy-session"]}

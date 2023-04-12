@@ -1,0 +1,17 @@
+- 2007-2014 Honda Fit
+- 2009-2013 Honda Civic
+- 2007-2011 Acura CSX
+- 2003-2013 Toyota Corolla
+- 2004-2008 Toyota Matrix
+	- Post 2008, look for a 1.8l engine
+- 2005-2006 Toyota RAV4
+- 2010-2012 Toyota RAV4
+- 2002-2006 Honda CR-V
+- 2007-2013 Mitsubishi outlander 6 cylinder
+- 2008-2012 Mitsubishi lancer
+- 2005-2006 Toyota Camry
+- 2014-2017 Mazda 3
+  2011 - 2015 Scion TC
+- 2005-2006 Lexus ES330
+- 2004-2012 Toyota Highlander
+- 2006-2011 Toyota Yaris

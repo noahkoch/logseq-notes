@@ -1,0 +1,2 @@
+- ## Good Ideas
+	- "You own all of your time"

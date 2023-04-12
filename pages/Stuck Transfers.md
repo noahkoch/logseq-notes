@@ -1,0 +1,31 @@
+- H063683K0CAD
+	- amr-E7SWuLYeCEo2eVpBubS0pRuXZf6_sec-s-61b97929724c4309bbb451c7aafedf03-2023-03-13
+	- Stuck since March 13th, AMR was marked as failed but activities were not cancelled
+	- Caused by bug solved in PR: [https://github.com/wealthsimple/asset-movement-service/pull/905](https://github.com/wealthsimple/asset-movement-service/pull/905)
+- HQ20JBMK1CAD
+	- Possibly a DIY bug?
+	- https://wealthsimple.atlassian.net/browse/EOC-76480
+	- Client was permitted multiple free trials (according to the client)
+	- Timeline
+		- They were given a free trial in Feb, AMR was created
+		- Then they were downgraded, assets moved to CAD account
+		- Then they received another free trial (re-upgraded Mar 22 10:31am ET), upgrade started, AMR never created
+- HQ4SD3FK0CAD
+	- AMR never created
+	- Inkind Transfer State is N/A
+	- https://wealthsimple.atlassian.net/browse/EOC-76634
+	- Moved to upgrade_started after I created the AMR manually
+- HQ43NPT04CAD
+	- This appears to be similar to HQ20JBMK1CAD
+	- Client re-upgraded
+	- The original upgrade and downgrade both created AMRs
+	- The re-upgrade did not have an AMR created
+	- https://wealthsimple.atlassian.net/browse/EOC-76638
+- HQ4HM7CK8USD
+	- Cash was left in the account
+	- Honestly, no idea why, that money should have been settled when they downgraded
+	- Some cash was moved on downgrade, but just not all of it?
+	- https://wealthsimple.atlassian.net/browse/EOC-76654
+- H665798K4CAD
+	- AMR never created for upgrade
+	- https://wealthsimple.atlassian.net/browse/EOC-76695
