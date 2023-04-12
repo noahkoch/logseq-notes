@@ -3,7 +3,7 @@
 	- DONE Book time off
 	- DONE Pay
 - UK
-	- TODO Figure out dates
+	- DONE Figure out dates
 	  :LOGBOOK:
 	  CLOCK: [2023-01-02 Mon 21:43:05]--[2023-01-02 Mon 21:43:05] =>  00:00:00
 	  CLOCK: [2023-01-02 Mon 21:43:06]--[2023-01-02 Mon 21:43:07] =>  00:00:01
